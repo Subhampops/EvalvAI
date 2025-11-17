@@ -19,11 +19,11 @@ export function Testimonials() {
       text: 'The Resume Analyzer gave me actionable feedback that got my resume shortlisted. The Question Generator covered every topic I was tested on.',
     },
     {
-      name: 'Chhavi',
-      role: 'Data Scientist @ Microsoft',
-      company: 'Microsoft',
-      image: '/professional-headshot-3.png',
-      linkedin: 'https://linkedin.com',
+      name: 'Chhavi Prabhat',
+      role: 'Developer',
+      company: 'Freelancing',
+      image: 'https://res.cloudinary.com/dacglrvc9/image/upload/c_crop,ar_3:4/v1763350935/chavvi_m4kdbj.jpg',
+      linkedin: 'https://www.linkedin.com/in/chhavi-prabhat-09bb93271/',
       text: 'From DSA to GD preparation, InterviewAI had everything. The AI analysis was spot-on and helped me improve my weak areas.',
     },
     {
